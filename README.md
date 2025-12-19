@@ -173,6 +173,10 @@ Lighthouse audit
 
 ✔ Clean, documented, production-ready codebase
 
+Note: Due to NewsAPI free-tier restrictions, live deployment may not display news content.
+PWA features are demonstrated via screenshots.
+
+
 📌 Notes
 Optional Chrome warnings about “Richer Install UI” do not affect PWA functionality or evaluation.
 
