@@ -60,27 +60,8 @@ Build Tool: Vite
 
 Testing: Chrome DevTools & Lighthouse
 
-📂 Project Structure
-pgsql
-Copy code
-news-reader-pwa/
-├── public/
-│   ├── icons/
-│   ├── manifest.json
-│   ├── offline.html
-│   └── service-worker.js
-├── src/
-│   ├── api/
-│   ├── components/
-│   ├── db/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── registerSW.js
-├── screenshots/
-├── .env.example
-├── package.json
-├── vite.config.js
-└── README.md
+
+
 🔐 API Key Handling (Important)
 This project uses the NewsAPI.org service.
 
